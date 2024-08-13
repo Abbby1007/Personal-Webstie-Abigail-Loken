@@ -29,4 +29,12 @@ img{
   max-width: 100%;
   max-height: 100%;
 }
- 
+
+#smaller{
+  margin: 5px 0;
+  font-size: 35px;
+}
+
+#smaller2{
+  margin: 5px 0;
+}
